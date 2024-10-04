@@ -26,10 +26,14 @@
 - 127.0.0.0:8080/home으로 접속합니다.
 
 ### 네비게이션 바
-상단의 네비게이션 바를 통해 다른 페이지로 이동할 수 있습니다.</br>
-Test, Home은 /home으로, Articles는 /articles로 이동합니다.</br>
+- 상단의 네비게이션 바를 통해 다른 페이지로 이동할 수 있습니다.
+- Test, Home은 /home으로, Articles는 /articles로 이동합니다.
 
 ### 게시글 조회
+![image](https://github.com/user-attachments/assets/25c7c035-1914-4840-96f6-3b36768bcf56)
+- /articles에서 모든 게시글을 조회할 수 있습니다.
+- 게시글 제목을 클릭하여 내용을 확인할 수 있습니다.
+- 글쓰기 버튼을 클릭하여 새로운 게시글을 작성할 수 있습니다.
 
 
 
