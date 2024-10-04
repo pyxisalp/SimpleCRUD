@@ -1,0 +1,20 @@
+{{>layouts/header}}
+
+<div class="card m-2">
+    {{#article}}
+        <div class="card-header bg-dark text-white">
+            {{title}}
+        </div>
+        <div class="card-body">
+            {{content}}
+        </div>
+    {{/article}}
+</div>
+<p align="right">
+    <a href="/articles" class="btn btn-primary">전체글</a>
+    <a href="/articles/{{article.id}}/edit" class="btn btn-primary">수정</a>
+    <a href="/articles/{{article.id}}/delete" class="btn btn-danger">삭제</a>
+</p>
+
+{{>comments/_comments}}
+{{>layouts/footer}}

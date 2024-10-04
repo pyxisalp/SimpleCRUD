@@ -1,0 +1,25 @@
+{{>layouts/header}}
+
+<div class="card m-2">
+    <table class="table">
+        <thead>
+            <tr class="table-dark">
+                <th scope="col">번호</th>
+                <th scope="col">제목</th>
+            </tr>
+        </thead>
+        <tbody>
+        {{#articleList}}
+            <tr>
+                <th>{{id}}</th>
+                <td><a href="/articles/{{id}}">{{title}}</a></td>
+            </tr>
+        {{/articleList}}
+        </tbody>
+    </table>
+</div>
+<p align="right">
+    <a href="/articles/new" class="btn btn-primary">글쓰기</a>
+</p>
+
+{{>layouts/footer}}

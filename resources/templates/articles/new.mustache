@@ -1,0 +1,20 @@
+{{>layouts/header}}
+
+<div class="card m-2">
+    <form class="container" action="/articles/create" method="post">
+        <div class="mb-3">
+            <label class="form-label">제목</label>
+            <input type="text" class="form-control" name="title">
+        </div>
+        <div class="mb-3">
+            <label class="form-label">내용</label>
+            <textarea class="form-control" rows="10" name="content"></textarea>
+        </div>
+        <p align="right">
+            <a href="/articles" class="btn btn-danger">취소</a>
+            <button type="submit" class="btn btn-primary">등록</button>
+        </p>
+    </form>
+</div>
+
+{{>layouts/footer}}
