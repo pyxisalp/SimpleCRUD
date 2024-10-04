@@ -6,6 +6,7 @@
 - [진행](#진행)
 - [환경](#환경)
 - [설명](#설명)
+- [참고](#참고)
 
 ## 개요
 게시판, 댓글의 CRUD를 구현했습니다.</br>
@@ -47,3 +48,8 @@
 
 ![image](https://github.com/user-attachments/assets/6f43a223-fbeb-44df-8463-b1c13865cda3)
 - 닉네임, 내용을 입력하고, 등록 버튼을 클릭하여 댓글을 작성할 수 있습니다.
+
+## 참고
+![image](https://github.com/user-attachments/assets/ef600709-7a8a-49e5-8886-f36b64e7bade)
+
+
