@@ -27,13 +27,22 @@
 
 ### 네비게이션 바
 - 상단의 네비게이션 바를 통해 다른 페이지로 이동할 수 있습니다.
-- Test, Home은 /home으로, Articles는 /articles로 이동합니다.
+- Test, Home은 /home으로, Articles는 /articles로 이동할 수 있습니다.
 
-### 게시글 조회
+### 모든 게시글 조회
 ![image](https://github.com/user-attachments/assets/25c7c035-1914-4840-96f6-3b36768bcf56)
 - /articles에서 모든 게시글을 조회할 수 있습니다.
 - 게시글 제목을 클릭하여 내용을 확인할 수 있습니다.
 - 글쓰기 버튼을 클릭하여 새로운 게시글을 작성할 수 있습니다.
 
+### 특정 게시글 조회
+![image](https://github.com/user-attachments/assets/a727d702-09e2-4c00-80bf-9ffab06cd4f7)
+- 전체글 버튼을 클릭하여 /articles로 이동할 수 있습니다.
+- 수정, 삭제 버튼을 클릭하여 게시글을 수정, 삭제할 수 있습니다.
 
-
+### 댓글
+![image](https://github.com/user-attachments/assets/28ad8f58-cd66-4c67-afbc-aa04d83947eb)
+- 특정 게시글에 있는 모든 댓글을 조회할 수 있습니다.
+- 수정, 삭제 버튼을 클릭하여 게시글을 수정, 삭제할 수 있습니다.
+![image](https://github.com/user-attachments/assets/6f43a223-fbeb-44df-8463-b1c13865cda3)
+- 닉네임, 내용을 입력하고, 등록 버튼을 클릭하여 댓글을 작성할 수 있습니다.
