@@ -44,5 +44,6 @@
 ![image](https://github.com/user-attachments/assets/28ad8f58-cd66-4c67-afbc-aa04d83947eb)
 - 특정 게시글에 있는 모든 댓글을 조회할 수 있습니다.
 - 수정, 삭제 버튼을 클릭하여 게시글을 수정, 삭제할 수 있습니다.
+
 ![image](https://github.com/user-attachments/assets/6f43a223-fbeb-44df-8463-b1c13865cda3)
 - 닉네임, 내용을 입력하고, 등록 버튼을 클릭하여 댓글을 작성할 수 있습니다.
